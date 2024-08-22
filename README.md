@@ -49,6 +49,14 @@ This project uses several essential packages to enhance functionality:
 - *Moq*: For mocking dependencies.
 - *NUnit*: Testing framework.
 - *NUnit3TestAdapter*: Adapter for running NUnit tests.
+  
+## Screenshot
+![1](https://github.com/user-attachments/assets/39d40d82-27d8-49eb-9eb3-5e11e1c46d6b)
+![2](https://github.com/user-attachments/assets/de1466e9-4740-49e8-ae06-6b7581c141ec)
+![3](https://github.com/user-attachments/assets/d0be1259-cf16-43b8-9639-9a5f1f95d090)
+![4](https://github.com/user-attachments/assets/8aa73fcc-922c-41cf-893a-5e7583eabe52)
+![5](https://github.com/user-attachments/assets/71827df1-2994-4ee2-b527-63eb0c599dfd)
+![6](https://github.com/user-attachments/assets/10d04f50-e4a8-4eb9-aa89-03c700818d9c)
 
 ## Installation
 
@@ -57,9 +65,4 @@ This project uses several essential packages to enhance functionality:
    ```bash
    git clone https://github.com/Yahya-Elebrashy/SarhneApp.git
 
-![1](https://github.com/user-attachments/assets/39d40d82-27d8-49eb-9eb3-5e11e1c46d6b)
-![2](https://github.com/user-attachments/assets/de1466e9-4740-49e8-ae06-6b7581c141ec)
-![3](https://github.com/user-attachments/assets/d0be1259-cf16-43b8-9639-9a5f1f95d090)
-![4](https://github.com/user-attachments/assets/8aa73fcc-922c-41cf-893a-5e7583eabe52)
-![5](https://github.com/user-attachments/assets/71827df1-2994-4ee2-b527-63eb0c599dfd)
-![6](https://github.com/user-attachments/assets/10d04f50-e4a8-4eb9-aa89-03c700818d9c)
+
