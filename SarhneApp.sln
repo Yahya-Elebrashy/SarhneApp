@@ -13,7 +13,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SarhneApp.Service", "Sarhne
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SarhneApp.Service.Test", "SarhneApp.Service.Test\SarhneApp.Service.Test.csproj", "{4637DE9A-D7D7-4387-B48E-911377195911}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SarhneApp.Repository.test", "SarhneApp.Repository.test\SarhneApp.Repository.test.csproj", "{401131A2-A6E4-49C9-AF4B-55EFCA1DCC6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SarhneApp.Repository.test", "SarhneApp.Repository.test\SarhneApp.Repository.test.csproj", "{401131A2-A6E4-49C9-AF4B-55EFCA1DCC6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{E910C04A-844D-4D7B-AF48-9E8D8B5DB738}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{5295E83C-79CF-4512-9064-E02D73734FF5}"
+	ProjectSection(SolutionItems) = preProject
+		dotnet.yml = dotnet.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,6 +55,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5295E83C-79CF-4512-9064-E02D73734FF5} = {E910C04A-844D-4D7B-AF48-9E8D8B5DB738}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4484CF9F-9747-4FE2-8B4A-B22610ABE0D9}
